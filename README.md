@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Currently learning C++
+Currently learning embedded development on the ESP32-S3 👋💻
